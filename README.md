@@ -1,1 +1,1 @@
-Ceci est un mini projet pour m'excercer en programmation.
+This is just a mini project to learning programming.
