@@ -1,1 +1,1 @@
-This is just a mini project to learning programming.
+This is just a exercice to learning programming with a langage C++.
